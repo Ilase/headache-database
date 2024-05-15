@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Daily Template.md",
+                "file": "Templates/{{date}} {{time}}.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Daily Template.md",
+                "file": "Templates/{{date}} {{time}}.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Daily Template.md",
+                "file": "Templates/{{date}} {{time}}.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Daily Template.md"
+                "file": "Templates/{{date}} {{time}}.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   "active": "652dbc4677b07404",
   "lastOpenFiles": [
     "Templates/Daily Template.md",
+    "Templates/{{date}} {{time}}.md",
     "Untitled.md",
     "Лекция 2. Процедура проведения документа.pdf",
     "Templates",
