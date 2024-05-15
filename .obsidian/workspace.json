@@ -1,0 +1,149 @@
+{
+  "main": {
+    "id": "23b91415182d5ba3",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a0bb349b91f3e00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "652dbc4677b07404",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "484dd395171fbafe",
+    "type": "split",
+    "children": [
+      {
+        "id": "1404cc882421d881",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3e1826eaa852be5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1e5ec8ec3d0e0ed3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "53ec049c3905dd8a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bedab38da6db2c66",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bbdb1c6b1fba87d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c913c2e8a73e575",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "abef8be902dae453",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ca1ab6c8481b0f2c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a1819766e6aaec9f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "652dbc4677b07404",
+  "lastOpenFiles": [
+    "Templates/Untitled.md",
+    "Untitled.md",
+    "Лекция 2. Процедура проведения документа.pdf",
+    "Templates",
+    "Daily"
+  ]
+}
